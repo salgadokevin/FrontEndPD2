@@ -1,0 +1,50 @@
+body {
+background-color: #F5E1F9;
+font-family: arial;
+background-image: linear-gradient(90deg, #DEB1FB, #9FFAED);
+}
+
+h1 {font-size: 40px;
+text-align: center;
+text-decoration: underline;}
+
+h2 {font-size: 25px; color: #B143F4;
+text-align: center;
+text-decoration: underline;}
+
+  .alinearimagen {display: flex;
+  justify-content: center;}
+
+  .alinearmapa{display: flex;
+  justify-content:center;}
+
+  .alinearvideo{display: flex;
+  justify-content: center;}
+
+p {font-size: 17px;}
+
+h3{font-size: 20px;
+text-align: center;
+text-decoration: underline;}
+
+b {font-size: 17px;}
+
+ul{font-size: 17px;}
+
+ol {font-size: 17px;}
+
+.textocompleto {
+  background: 90deg, #DEB1FB, #9FFAED;
+  height: 1350px;
+  margin: 2rem auto;
+  width: 800px;
+  text-align: justify;
+}
+
+.parrafo{
+  background: 90deg, #DEB1FB, #9FFAED;
+  height: 200px;
+  margin: 2rem auto;
+  width: 800px;
+  text-align: justify;
+}
